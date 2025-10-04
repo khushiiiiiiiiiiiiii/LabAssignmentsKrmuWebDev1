@@ -10,7 +10,7 @@ The goal was to build a one-page personal portfolio website, following accessibi
 
 📌 Features
 
-Semantic HTML structure (<header>, <nav>, <main>, <section>, <footer>)
+Semantic HTML structure (<header>, <nav>,<main>,<section>,<footer>)
 
 Internal navigation with smooth section links
 

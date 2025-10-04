@@ -2,8 +2,11 @@
 
 
 Personal Portfolio Website (Lab 1)
+
 This is my Web Development I - Lab Assignment 1 project.
+
 The goal was to build a one-page personal portfolio website, following accessibility and clean coding best practices.
+
 
 📌 Features
 Semantic HTML structure (<header>, <nav>, <main>, <section>, <footer>)
